@@ -1,0 +1,3 @@
+Nga;Da Nang;778000.0
+Nhan;Ha Noi;89200.0
+Luong;Sai Gon;1500.0
